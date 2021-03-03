@@ -1,2 +1,2 @@
-rem ng build --prod --base-href=sidneysime
-ng build --prod
+ng build --prod --base-href=sidneysime
+rem ng build --prod
